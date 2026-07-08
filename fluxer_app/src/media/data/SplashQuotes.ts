@@ -79,6 +79,7 @@ export function useSplashQuotes(): ReadonlyArray<SplashQuote> {
 			{text: 'Heating up the engine.', source: 'Ray'},
 			{text: 'Pong!', source: 'Cookie'},
 			{text: "Every day I'm fluxin' it.", source: 'Liminalis'},
+			{text: 'MILFS (Man I Love Fluxer)', source: 'Miicat_47'},
 			{text: 'I am the word', source: 'Bird'},
 		];
 		quotes.push({
